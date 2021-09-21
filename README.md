@@ -47,3 +47,8 @@ The following python libraries are used in this project:
 - ./img/decision_tree.png
                    
       Final decision tree depicted above
+     
+## Additional links
+
+You can also read the description of this study in the [Medium story](https://wolfhamer.medium.com/who-would-not-want-a-discount-from-starbucks-2b05b9738e68).
+
