@@ -7,7 +7,7 @@ The aim of this analysis as part of the Udacity Data Science Nanodegree was to f
 
 ## Summary of the results
 
-It was possible to identify such a group consisting of users between 37 and 48 years of age with an income above 70,500 $. 
+In the [analysis](https://nbviewer.jupyter.org/github/whamer/Udacity_Data_Science_Capstone/blob/main/Udacity_Starbucks_Capstone.ipynb) it was possible to identify such a group consisting of users between 37 and 48 years of age with an income above 70,500 $. 
 
 ![](img/decision_tree.png)
 
